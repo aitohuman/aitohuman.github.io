@@ -1,1 +1,1 @@
-#Simple AI Humanizer
+# Simple AI Humanizer
